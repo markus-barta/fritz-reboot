@@ -26,6 +26,7 @@ This script reboots a FritzBox router and up to three FritzBox repeaters using t
 The script requires a `.env` file located at `$HOME/env/fritz.env` with the following content:
 
 `USERNAME=your_username
+
 PASSWORD=your_password`
 
 ## Device Configuration
