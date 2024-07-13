@@ -1,4 +1,4 @@
-# FritzBox and Repeater Reboot Script
+# FritzBox and Repeater Soft Reboot Script
 
 This script reboots a FritzBox router and up to three FritzBox repeaters using the TR-064 protocol. It then monitors the devices for 1 minute to ensure they come back online.
 
@@ -24,8 +24,8 @@ This script reboots a FritzBox router and up to three FritzBox repeaters using t
 ## Requirements
 
 The script requires a `.env` file located at `$HOME/env/fritz.env` with the following content:
-USERNAME=your_username
-PASSWORD=your_password
+- `USERNAME=your_username`
+- `PASSWORD=your_password`
 
 ## Device Configuration
 
