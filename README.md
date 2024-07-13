@@ -4,7 +4,7 @@ This script reboots a FritzBox router and up to three FritzBox repeaters using t
 
 ## Usage
 
-./reboot_fritzbox.sh [OPTIONS]
+`./reboot_fritzbox.sh [OPTIONS]`
 
 ## Options
 
